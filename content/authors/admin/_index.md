@@ -4,13 +4,13 @@ authors:
 bio: 
 education:
   courses:
-  - course: Ph.D., Generation Model
+  - course: Ph.D.
     institution: The Graduate School of The Information Science and Technology, The University of Tokyo
     year: 2020 - 2023 (Expected)
-  - course: M.E., Video Signal Processing Lab
+  - course: M.E.
     institution: The Graduate School of Information, Production and Systems, Waseda University
     year: 2018 - 2020
-  - course: B.E., Instruments Science & Engineering
+  - course: B.E.
     institution: The School of The Instruments Science and Engineering, Southeast University
     year: 2015 - 2019
 email: "liuhaiyang@kmj.iis.u-tokyo.ac.jp"
