@@ -40,9 +40,9 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. candidate in the [Kamijo Lab](<http://kmj.iis.u-tokyo.ac.jp/e_index.html>), Graduate School of [Information Science and Technology](https://www.i.u-tokyo.ac.jp/index_e.shtml), supervised by [Prof. Shunsuke Kamijo](https://www.iis.u-tokyo.ac.jp/en/research/staff/shunsuke-kamijo/). I am working on DeepLearning based generation model for cross-modal mapping, e.g., gestures and audio.
+I am a Ph.D. candidate in the [Kamijo Lab](<http://kmj.iis.u-tokyo.ac.jp/e_index.html>), Graduate School of [Information Science and Technology](https://www.i.u-tokyo.ac.jp/index_e.shtml), supervised by [Prof. Shunsuke Kamijo](https://scholar.google.com/citations?user=CLxG_zgAAAAJ&hl=zh-CN&oi=ao). I am working on DeepLearning based generation model for cross-modal mapping, e.g., gestures and audio.
 
-I received my M.E. from <a href="https://www.waseda.jp/top/en/">Waseda Universiy</a>, supervised by <a href="http://www.waseda.jp/sem-ikenaga/content/ikenaga/ikenaga-E.htm">Prof. Takeshi Ikenaga</a>, in 2020,  and B.E. from <a href="https://www.seu.edu.cn/english/">Southeast Universiy</a>, in 2019.
+I received my M.E. from [Waseda Universiy](https://www.waseda.jp/top/en/), supervised by [Prof. Takeshi Ikenaga](https://scholar.google.com/citations?user=Q2ugsNcAAAAJ&hl=zh-CN&oi=ao), in 2020,  and B.E. from [Southeast Universiy](https://www.seu.edu.cn/english/), in 2019.
 
 My research interests include Generation Model, Cross-Modal Mapping, Human Pose and Gestures, Audio Signal Processing.
 
