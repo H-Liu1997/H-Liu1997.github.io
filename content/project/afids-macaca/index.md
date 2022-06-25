@@ -1,32 +1,29 @@
 ---
-date: "2020-12-27T00:00:00Z"
+date: "2020-06-01T00:00:00Z"
 external_link: ""
 image:
   caption:
   focal_point: Smart
 links:
-- icon:
-  icon_pack:
-  name: Website
-  url: https://afids.github.io/afids-protocol/
+- icon: 
+  icon_pack: 
+  name: PDF
+  url: https://ieeexplore.ieee.org/abstract/document/9142625/
 - icon: github
   icon_pack: fab
   name: Code
-  url: https://github.com/afids/afids-macaca
-- icon:
-  icon_pack:
-  name: Poster
-  url: https://afids.github.io/afids-macaca-ohbm2021/
-- icon: twitter
+  url: https://github.com/H-Liu1997/Pytorch_Pose_Estimation_Framework/
+- icon: youtube
   icon_pack: fab
-  name: Twitter
-  url: https://twitter.com/afids_project
+  name: Oral
+  url: https://drive.google.com/file/d/1XY3Tl7dVhmSxNUfn4p8Wl1oJMYIvk2Qa/view/
+
 slides:
-summary: "A standardized framework for evaluating anatomical correspondence between primate brains"
+summary: "Haiyang Liu, Dingli Luo, Songlin Du and Takeshi Ikenaga. 2020 13th International Conference on Human System Interaction (HSI)"
 tags:
 - collaborative
 - include
-title: "AFIDs-macaca"
+title: "Resolution Irrelevant Encoding and Difficulty Balanced Loss Based Network Independent Supervision for Multi-Person Pose Estimation"
 url_code: ""
 url_pdf: ""
 url_slides: ""

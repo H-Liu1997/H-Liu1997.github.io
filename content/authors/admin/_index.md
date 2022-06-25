@@ -4,7 +4,7 @@ authors:
 bio: 
 education:
   courses:
-  - course: Ph.D., Generation Model, 2020 - 2023 (Expected)
+  - course: Ph.D., Generation Model
     institution: The Graduate School of The Information Science and Technology, The University of Tokyo
     year: 2020 - 2023 (Expected)
   - course: M.E., Video Signal Processing Lab
