@@ -19,7 +19,7 @@ links:
   url: https://drive.google.com/file/d/16J3O0Ja7IxP1p9NkidgkmwcCUVoBRqSG/view/
 
 slides:
-summary: "Haiyang Liu and Cheng Zhang. 2020 International Joint Conference on Neural Networks (IJCNN)"
+summary: "Haiyang Liu and Cheng Zhang. (IJCNN) 2020 International Joint Conference on Neural Networks "
 tags:
 - research
 - include

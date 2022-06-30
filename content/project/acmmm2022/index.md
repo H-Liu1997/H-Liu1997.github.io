@@ -14,7 +14,7 @@ links:
 
 
 slides:
-summary: "Haiyang Liu, Naoya Iwamoto, Zihao Zhu, Zhengqing Li, You Zhou, Elif Bozkurt and Bo Zheng. Proceedings of the 30th ACM International Conference on Multimedia (ACMMM)"
+summary: "Haiyang Liu, Naoya Iwamoto, Zihao Zhu, Zhengqing Li, You Zhou, Elif Bozkurt and Bo Zheng. (ACMMM) Proceedings of the 30th ACM International Conference on Multimedia "
 tags:
 - research
 - include

@@ -19,7 +19,7 @@ links:
   url: https://drive.google.com/file/d/1EW9yImH7wQeZlNXzSnJ1-aFn25uQn2a7/view/
 
 slides:
-summary: "Haiyang Liu and Cheng Zhang. The 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining Workshop (KDD Workshop)"
+summary: "Haiyang Liu and Cheng Zhang. (KDD Workshop) The 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining Workshop "
 tags:
 - research
 - include

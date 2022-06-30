@@ -19,7 +19,7 @@ links:
   url: https://github.com/H-Liu1997/Pytorch_Pose_Estimation_Framework/
 
 slides:
-summary: "Haiyang Liu, Dingli Luo, Songlin Du and Takeshi Ikenaga. 2020 13th International Conference on Human System Interaction (HSI)"
+summary: "Haiyang Liu, Dingli Luo, Songlin Du and Takeshi Ikenaga. (HSI) 2020 13th International Conference on Human System Interaction "
 tags:
 - research
 - include
